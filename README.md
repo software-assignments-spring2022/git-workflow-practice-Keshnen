@@ -8,3 +8,6 @@
 
 ## Comment by Mehul Aneja
 ### As Keshnen mentioned in his response on the article by Volz, I find the creation of a new task force to facilitate major cybersecurity failures by simply finding solutions against the cyber threat instead of locating the faults from which these cyber security threats source an interesting and unique choice.
+
+## Comment by Sreeya Narra
+### Personally felt that the article chosen by Keshnen gives some crucial information regarding the cybersecurity laws. It was surprising to know that the ecosystem did not comprise of a baord that combined the expertise of government officials and private-sector researchers to study high-profile cybersecurity episodes has been missing up until now.
